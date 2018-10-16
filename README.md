@@ -17,3 +17,5 @@ DIV2K &  Flickr2K
 before
 ----
 <img src='https://github.com/wangqifan/Super-Resolution/blob/master/input.png' width=481>
+after
+<img src='https://github.com/wangqifan/Super-Resolution/blob/master/temp.jpg' width=481>
